@@ -1,0 +1,50 @@
+body, html {
+  margin: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+ 
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff !important;
+}
+div {
+  background-color: rgba(255,255,255,0.2);
+}
+
+.hints{
+	display:none;
+}
+footer{
+	
+	padding: 0px;
+    border-top: 10px;
+    background: gray;
+    color: #fff;
+    font-size: 29px;
+	
+}
+
+img{
+	    border: 1px solid black !important;
+		padding:5px;
+}
+
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin-top: 10px !important;
+}
+.jumbotron2{
+	padding-top: 48px;
+    padding-bottom: 48px;
+	margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+}
